@@ -1,0 +1,19 @@
+{
+  "name": "@lavikara/testsdk",
+  "version": "0.0.21",
+  "description": "Prime bank sdk",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffect": false,
+  "repository": "git@github.com:primebank/virtual-accounts-mobile-sdk.git",
+  "author": "lavikara <karatemitayo@gmail.com>",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "Prime Bank",
+    "virtual account",
+    "javascript"
+  ],
+  "license": "MIT"
+}
